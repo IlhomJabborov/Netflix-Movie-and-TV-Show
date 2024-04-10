@@ -9,7 +9,7 @@ Netflix eng mashhur media va video oqim platformalaridan biridir. Ularning platf
 
 Bu proyektning maqsadi, Netflix platformasidagi ma'lumotlar to'plamini ko'rib chiqish va uni tahlil qilishdir. Ma'lumotlar, Kaggle'da mavjud bo'lgan Netflix ma'lumotlar to'plamidan olingan.
 
-**Dataset:** [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Dataset:** [Netflix Movie & Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 **Ma'lumotlar Maydonlari:**
 - **show_id:** Har bir shou uchun noyob identifikator
@@ -29,7 +29,7 @@ Bu proyektning maqsadi, Netflix platformasidagi ma'lumotlar to'plamini ko'rib ch
 
 1. Yuklab olish:
    ```bash
-   git clone https://github.com/yourusername/netflix-analysis.git
+   git clone https://github.com/IlhomJabborov/Netflix-Movie-and-TV-Show.git
    ```
 2. Ishlatildi :
    * Python 3.x
@@ -37,5 +37,5 @@ Bu proyektning maqsadi, Netflix platformasidagi ma'lumotlar to'plamini ko'rib ch
    * Matplotlib
    * Seaborn
 ### 
-© 2024 Netflix Analysis Team
+© 2024 
 
